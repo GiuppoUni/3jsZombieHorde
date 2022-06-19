@@ -14,43 +14,35 @@ To run:
 To develop:
 - Three js
 - Cannon js
-- jQuery.
+- jQuery
 
 ### Installing
 You need a local server running because some browsers (Chrome, Firefox...) will block loading of elements (textures, images, models...).
 A good example for Ubutnu is live-server on CLI or python simpleHTTPServer.
 
 ## Deployment
-
 We used Github pages to deploy the code.
+
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [ThreeJs](http://www.http://threejs.org/) - The web framework used
+* [CannonJs](https://github.com/schteppe/cannon.js?)
+* [KenneyAssets](https://www.kenney.nl/assets)
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+## TODO
+- fix character shadow (now it's a box)
+- fix ball trajectory when shooting in free Aim 
+- fix css layout and colors
+- add real rounds models instead of balls (opt)
+- enlarge game field
+- add more meshes and TEXTURES (introducing simple mesh with nice textures instead of models)
+- SOMETIME ZOMBIES GO THROUGH OBJECT OR CAN PUSH OBJECT WITH A VERY BIG MASS
 
 ## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+ 
+* **Giuseppe Capaldi** - [GiuseppeCapaldi](https://github.com/GiuppoUni)
+* **Davide Lo Iudice** - [DavideLoIudice](https://github.com/LinguaggioScalabile)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
-
