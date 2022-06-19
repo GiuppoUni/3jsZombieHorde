@@ -1,4 +1,4 @@
-# Zombies Horde
+# Zombie Horde
 
 Three js game as final project of Interactive Graphics course at Sapienza University of Rome.
 
