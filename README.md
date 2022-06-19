@@ -1,8 +1,12 @@
-# Zombie Horde
+# Zombie Horde 🧟🧟🧟
 
-Three js game as final project of Interactive Graphics course at Sapienza University of Rome.
+Zombie Horde is a Three.js browser game started as final homework for Interactive Graphics course at Sapienza University of Rome. Feel free to pull and contribute!
 
-Live **DEMO**: https://sapienzainteractivegraphicscourse.github.io/finalproject-romeigdevteam/
+<img src="DOC/zombie1.png" alt="drawing" width="200"/>
+<img src="DOC/zombie2.png" alt="drawing" width="200"/>
+
+
+**PLAY IT HERE**: https://giuppouni.github.io/3jsZombieHorde/
 
 ## Getting Started
 We used Three.js, Cannon.js and jQuery.  
@@ -37,6 +41,22 @@ We used Github pages to deploy the code.
 - enlarge game field
 - add more meshes and TEXTURES (introducing simple mesh with nice textures instead of models)
 - SOMETIME ZOMBIES GO THROUGH OBJECT OR CAN PUSH OBJECT WITH A VERY BIG MASS
+
+## DevNotes
+Notes for developers:
+ZOMBIE BONES SCHEMA
+
+bones[1] - R LEG 			
+bones[4] - L LEG
+bones[7] - Torso
+bones[8] - Torso
+bones[9] - Head
+
+bones[11] - up arm right
+bones[12] - low arm right
+bones[14] - up arm left
+bones[15] - low arm left
+
 
 ## Authors
  
